@@ -1,0 +1,81 @@
+body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    height: 600px;
+    width: 500px;
+    margin: 50px auto;
+    border-radius: 5px;
+
+}
+
+.post-header {
+    display: flex;
+    height: 10%;
+
+}
+
+.logo {
+    width: 10%;
+    height: 40px;
+    border-radius: 50%;
+
+}
+
+.titles {
+    width: 80%;
+  
+}
+
+.menu {
+    width: 10%;
+}
+
+.title1 {
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.title2 {
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.html5-logo {
+    margin-left: 10px;
+    margin-top: 20px;
+
+}
+
+.menu-icon {
+    margin-left: 10px;
+    margin-top: 25px;
+
+}
+
+.post-image {
+    width: 500px;
+    height: 350px;
+    overflow:hidden;
+    padding-top: 10px;
+    
+}
+
+.post-footer{
+    width: 90%;
+    padding-right:10px;
+    padding-left: 30px;
+    
+}
+
+.liked {
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
